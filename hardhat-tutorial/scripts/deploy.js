@@ -1,4 +1,4 @@
-const { ethers } =  require("hardhat");
+const { ethers } =  require("hardhat"); // not the routine ether which we take this is special ether 
 
 const  main = async() =>
 {
